@@ -6,7 +6,7 @@ interactive UI elements — perfect for learning and showcasing front-end develo
 
 ## 📸 Preview
 
-![Netflix Clone Preview]([preview.png](https://startling-starlight-f2350d.netlify.app/)) 
+![Netflix Clone Preview](https://startling-starlight-f2350d.netlify.app/) 
 
 ## 📁 Project Structure
 
