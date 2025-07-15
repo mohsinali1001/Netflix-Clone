@@ -6,14 +6,7 @@ interactive UI elements — perfect for learning and showcasing front-end develo
 
 ## 📸 Preview
 
-![Netflix Clone Preview](preview.png) <!-- Replace with your actual image or demo link -->
-
-## 🌐 Live Demo
-
-🚀 [View Live on GitHub Pages](https://yourusername.github.io/netflix-clone)  
-👉 *(Replace the link with your actual deployed site on GitHub Pages, Netlify, Vercel, etc.)*
-
----
+![Netflix Clone Preview]([preview.png](https://startling-starlight-f2350d.netlify.app/)) 
 
 ## 📁 Project Structure
 
