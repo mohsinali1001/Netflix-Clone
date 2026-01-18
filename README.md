@@ -4,7 +4,8 @@ A fully responsive and visually appealing **Netflix Clone** built using **HTML**
 
 ## 📸 Preview
 <img width="1351" height="544" alt="image" src="https://github.com/user-attachments/assets/3897545d-8e6c-4b3f-96e8-f68b8eedfafd" />
-<img width="1352" height="470" alt="image" src="https://github.com/user-attachments/assets/cbb9ebb8-7062-4749-b48c-75dc0c6848ca" />
+<img width="1349" height="396" alt="image" src="https://github.com/user-attachments/assets/9367c7a6-784f-4e2d-b12e-9e572c0116de" />
+
 
 ## 🌐 Live Demo
 
